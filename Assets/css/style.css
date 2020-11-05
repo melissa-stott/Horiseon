@@ -94,7 +94,7 @@ p {
     text-align: center;
 }
 
-.search-engine-optimization {
+.main-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -121,17 +121,17 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.main-content img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+/* .online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
