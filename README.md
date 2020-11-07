@@ -1,2 +1,2 @@
 # Horiseon
-![Horiseon_Website_Image](https://github.com/melissa-stott/Horiseon/blob/main/Horiseon_Image.png)
+![picture](C:\Users\1prin\Horiseon\Assets\images\Horiseon_Image.png)
